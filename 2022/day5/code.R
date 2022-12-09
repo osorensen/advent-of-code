@@ -1,8 +1,8 @@
 library(tidyverse)
 
-crates <- vector(mode = "list", length = 3)
-setup <- rev(read_lines("2022/day5/input.txt", n_max = 3))
-instructions <- read_lines("2022/day5/input.txt", skip = 5)
+crates <- vector(mode = "list", length = 9)
+setup <- rev(read_lines("2022/day5/input.txt", n_max = 8))
+instructions <- read_lines("2022/day5/input.txt", skip = 10)
 
 for(i in seq_along(setup)){
   re <- "(?<=[:space:])[:space:]{3}(?=[:space:])"
