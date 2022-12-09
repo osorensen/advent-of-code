@@ -1,11 +1,11 @@
 {
     "id": "0D112370",
-    "path": "~/code/advent-of-code/2022/day1/code.R",
-    "project_path": "2022/day1/code.R",
+    "path": "~/code/advent-of-code/2022/day2/code.R",
+    "project_path": "2022/day2/code.R",
     "type": "r_source",
-    "hash": "743210634",
+    "hash": "0",
     "contents": "",
-    "dirty": false,
+    "dirty": true,
     "created": 1670573971882.0,
     "source_on_save": false,
     "relative_order": 1,
@@ -13,15 +13,15 @@
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,0",
-        "scrollLine": "0"
+        "cursorPosition": "58,0",
+        "scrollLine": "31"
     },
     "folds": "",
-    "lastKnownWriteTime": 1670574457,
+    "lastKnownWriteTime": 1670575802,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1670574457443,
+    "last_content_update": 1670575819107,
     "read_only": false,
     "read_only_alternatives": []
 }
